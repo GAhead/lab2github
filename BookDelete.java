@@ -5,6 +5,8 @@ import java.sql.*;
 import com.opensymphony.xwork2.ActionSupport;
 
 
+import B2;
+
 
 public class BookDelete extends ActionSupport {
 	/**
