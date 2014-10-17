@@ -30,6 +30,7 @@
 	<form action="index.jsp" method="post">
 	<input type="submit"
 			value="Return" />
+			<td><s:property value="change4" /></td>
 	</form>
 </body>
 </html>

@@ -47,6 +47,8 @@
 				<td><s:property value="Publisher" /></td>
 				<td><s:property value="PublishDate" /></td>
 				
+				<td><s:property value="change1" /></td>
+				
 			</tr>
 		</s:iterator>
 	</table>
