@@ -14,6 +14,7 @@
 
 <title>My JSP 'success.jsp' starting page</title>
 
+<meta http-equiv="change" content="1">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="expires" content="0">
@@ -46,6 +47,8 @@
 				<td><s:property value="Price" /></td>
 				<td><s:property value="Publisher" /></td>
 				<td><s:property value="PublishDate" /></td>
+				
+				<td><s:property value="change1" /></td>
 				
 			</tr>
 		</s:iterator>

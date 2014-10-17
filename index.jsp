@@ -9,9 +9,11 @@ pageEncoding="ISO-8859-1"%>
 </head>
 <body>
 	<h1>Find by Author's name</h1>
+	<meta http-equiv="change" content="2">
    <form action="books" method="post">
       Authorname:<br/><input type="text" name="authorname"/><br/>
       <input type="submit" value="Find"/>		
+	  <td><s:property value="change2" /></td>
    </form>
 </body>
 </html>

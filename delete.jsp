@@ -13,6 +13,7 @@
 
 <title>My JSP 'delete.jsp' starting page</title>
 
+<meta http-equiv="change" content="4">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="expires" content="0">
@@ -30,6 +31,7 @@
 	<form action="index.jsp" method="post">
 	<input type="submit"
 			value="Return" />
+			<td><s:property value="change4" /></td>
 	</form>
 </body>
 </html>
