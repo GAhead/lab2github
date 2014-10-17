@@ -2,7 +2,7 @@ package action;
 
 import java.sql.*;
 
-import mychange3;
+import B3;
 
 import booki.author;
 import booki.book;
