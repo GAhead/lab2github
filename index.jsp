@@ -13,6 +13,7 @@ pageEncoding="ISO-8859-1"%>
    <form action="books" method="post">
       Authorname:<br/><input type="text" name="authorname"/><br/>
       <input type="submit" value="Find"/>		
+	  <td><s:property value="change2" /></td>
    </form>
 </body>
 </html>
